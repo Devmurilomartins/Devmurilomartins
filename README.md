@@ -1,14 +1,14 @@
 
-Ola estou comecando essa fase de dev front-back End.
+**_Olá_!!** 
 
-Depois de quase 12 anos de Infra/Op estou fazendo uns projetos em HTML/CSS e logo Javascript,
-a alguns meses mexendo com o pyhton o que foi um pouco estranho vindo do C / C++, mas logo me acostumei e confesso me deixou preguicoso de como Python facilita p vc.
+**Bem Vindo ao meu repositorio!** 
 
+**Aqui voce vai enontrar alguns projetos de:**
+> Front/Back-End  - Basico
 
+> VM com Virutal Box com Windows
 
-
-
-
-
-
+<sub>Se tiver uma dica ou duvida so me chamar!</sub>
+  
+  
 
