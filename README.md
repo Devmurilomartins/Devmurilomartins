@@ -1,15 +1,12 @@
+# Murilo Martins - AKA "Lilo" 
 
-**_Olá_!!** 
+**Apaixonado por Technologia **
 
-**Bem Vindo ao meu repositorio!** 
+After more than 15 years of experience on It Infrastructure Analyst, I'm
+now starting to a new path for Full Stack Developer. Strong creative
+and analytical skills. Team player, with an eye for detail.
 
-**Aqui voce vai enontrar alguns projetos de:**
-> Front/Back-End  - Basico
 
-> Criacao de VM com Virutal Box de Windows para testes
+ 
 
-<sub>Se tiver uma dica ou duvida so me chamar!</sub>
-
-  
-  
-
+---
