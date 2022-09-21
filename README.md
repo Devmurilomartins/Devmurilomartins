@@ -17,3 +17,6 @@ and analytical skills. Team player, with an eye for detail. **
 <br />
 
 #
+
+### 📊 Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Devmurilomartins&theme=gruvbox_duo)](https://git.io/streak-stats)
