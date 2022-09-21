@@ -21,3 +21,17 @@ and analytical skills. Team player, with an eye for detail.`**
 
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devmurilomartins&theme=gruvbox_duo)](https://git.io/streak-stats)
+
+
+<details>
+ <summary><h3>💻 My journy on IT </h3></summary>
+ 
+Like everyone who liked video games in the 90s, I started my journey on the PC because of games and from then on it has always been part of my day to day, I decided to start part of my career in IT in 2007 and continue working in this area until today.
+I hope to help with my experience and knowledge with Operating Systems , Programs and Web Developement !
+   
+
+
+[youtube]: https://www.youtube.com/channel/UCWoh2tP0laCtkDMcV35n5Gw
+
+
+
