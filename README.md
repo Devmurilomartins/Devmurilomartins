@@ -1,7 +1,7 @@
 # Murilo Martins - aka: "Lilo" 
 
 **`After more than 15 years of experience on IT Infrastructure Analyst, I'm
-now starting to a new path as a Devops. Strong creative
+now starting to a new path as a Devops and Developer. Strong creative
 and analytical skills. Team player, with an eye for detail.`**
  
 
